@@ -1,0 +1,12 @@
+[Unit]
+Description=Locky a lock screen logger
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/$USER/lock_screen.sh
+Restart=always
+RestartSec=3
+Environment=DISPLAY=:0 # you need to chek with "echo $DISPLAY" to find actual environment vrible of your system
+
+[Install]
+WantedBy=default.target
