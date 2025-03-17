@@ -1,7 +1,7 @@
 # locky
-A simple script and its user daemon to monitor locking and unlocking of your linux distro
+A simple script and its user daemon to monitor the locking and unlocking of your Linux distro!
 
 # license
-I havent desided on what license to use maybe someone can help!
+I haven't decided on what license to use maybe someone can help!
 # ABOUT
-As I was wondering how many times and how much time i lock my linux machine so i made this script and now sharing here!
+I was wondering how many times and how much time I lock my Linux machine so I made this script and now sharing it here!
